@@ -28,7 +28,7 @@ A study was conducted regarding schools in the Punjab Province to analyze the im
 
   ![Screenshot 2025-02-08 165850](https://github.com/user-attachments/assets/d57b060c-947e-4b72-a74a-dad8e714105a)
 
-## Actionable Insights
+## Actionable Recommendations
 
 - The smaller number of government schools in urban areas must be investigated. It could be due to the preference of people to send their children to private 
   schools for better education and infrastructure.
